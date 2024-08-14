@@ -8,7 +8,7 @@ The Forensics/Hard Disks category of a CTF, typically consists of analyzing digi
 
 We are to download the registry files provided to determine the current version of Firefox. To begin, I plan to use the command line tool regshell to view the software registry in greater detail. I will select to view the software instead of system or security because the question is to determine the current version of Mozilla Firefox. I plan to search deeper into this software registry because it should contain the information I am looking for.
 
-![image](https://github.com/user-attachments/assets/a9e7c262-dcd5-49ae-820d-b469cff43c1e)
+![image](https://github.com/user-attachments/assets/9e0dcbd0-8749-494d-8cd9-8c7d578af391)
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
