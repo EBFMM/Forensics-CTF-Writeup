@@ -10,7 +10,7 @@ We are to download the registry files provided to determine the current version 
 
 ![image](https://github.com/user-attachments/assets/9e0dcbd0-8749-494d-8cd9-8c7d578af391)
 
-### Working Towards A Solution
+## Working Towards A Solution
 [Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
