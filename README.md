@@ -1,9 +1,8 @@
 # Forensics-CTF-Writeup
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Forensics/Hard Disks category of a CTF, typically consists of analyzing digital artifacts from storage devices. Challenges may involve recovering deleted files or analyzing file systems. The objective in this challenge is to identify specific evidence within registry files. Some important background knowledge needed is a solid understanding of file systems and forensic analysis techniques. More importantly how to move throughout file systems easily to quickly search and assess key information. This category relates to my experience within the Ethical Hacking course, particularly the topics of incident response and forensic analysis. The lab 'Scanning, Enumeration, and Vulnerability Analysis' in the course covered a similar topic from this CTF problem. To describe, reconnaissance is conducted to gather essential information and the Windows Registry can be categorized as a database.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
