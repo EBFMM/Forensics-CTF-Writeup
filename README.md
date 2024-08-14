@@ -12,9 +12,9 @@ We are to download the registry files provided to determine the current version 
 
 ## Working Towards A Solution
 
-![image](https://github.com/user-attachments/assets/9a01bbaf-555c-4a52-8a39-827ce7f37ac6)
-
 Regshell command can be used with switch 'F' to specify file name. Given our options, I will select 'software' directory to dig deeper, then seeing the listed directories, Mozilla stands out because as mentioned, we are looking to determine the current version of Firefox. 
+
+![image](https://github.com/user-attachments/assets/9a01bbaf-555c-4a52-8a39-827ce7f37ac6) 
 
 ## Arriving At The Solution
 
