@@ -18,9 +18,9 @@ Regshell command can be used with switch 'F' to specify file name. Given our op
 
 ## Arriving At The Solution
 
-![image](https://github.com/user-attachments/assets/695c19af-1b39-46ed-968d-5e5fde64a4e8)
-
 I was able to arrive to the solution by further changing directory into the "Mozilla Firefox" which after listing contents showed me the 'CurrentVersion' value to signify the answer and flag: Mozilla Firefox version "35.0.1".
+
+![image](https://github.com/user-attachments/assets/695c19af-1b39-46ed-968d-5e5fde64a4e8)
 
 ## Lessons Learned 
 
