@@ -27,14 +27,15 @@ We are to download the registry files provided to determine the current version 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Lessons Learned 
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
+From this challenge, I learned the importance of prioritizing where you decide to search more in-depth to save time. Personal pitfalls included looking in the irrelevant directories within the registry. Additionally, it is worth mentioning that I experienced a pitfall when trying to “change directory” into a directory which was named utilizing a space. Tab to complete was not working, however by placing quotations around the name I was able to successfully change directory to the exact path entered. 
 
 ## Relationship To The Workplace
 
 Capture the Flag challenges and competitions can benefit you in the workplace because they improve one's technical skills, develop critical thinking, and provide you with networking opportunities. These competitions are home to hackers and likeminded individuals all interested in cybersecurity. Many CTF competitions are team-based and require effective communication which I believe to be a crucial skill in the workplace.
 
 ## Summary
+
+To summarize, we had gathered information regarding specific software however, there is a wealth of information to be enumerated inspecting the registry files provided. The main takeaway is that extensive background knowledge is not required to solve similar CTF problems, although it is important to be familiar with the various forensic analysis tools such as FTKImager or Autopsy in addition to proper syntax and usage of command line tools such as regshell to investigate effectively.
+
+
