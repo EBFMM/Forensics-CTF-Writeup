@@ -19,18 +19,20 @@ We are to download the registry files provided to determine the current version 
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
-### Tools Used
+## Arriving At The Solution
 [Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
+## Lessons Learned 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-*Ref 1: Network Diagram*
+## Relationship To The Workplace
+
+## Summary
