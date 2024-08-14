@@ -35,4 +35,6 @@ Example below.
 
 ## Relationship To The Workplace
 
+Capture the Flag challenges and competitions can benefit you in the workplace because they improve one's technical skills, develop critical thinking, and provide you with networking opportunities. These competitions are home to hackers and likeminded individuals all interested in cybersecurity. Many CTF competitions are team-based and require effective communication which I believe to be a crucial skill in the workplace.
+
 ## Summary
