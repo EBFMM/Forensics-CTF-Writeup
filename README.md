@@ -11,20 +11,16 @@ We are to download the registry files provided to determine the current version 
 ![image](https://github.com/user-attachments/assets/9e0dcbd0-8749-494d-8cd9-8c7d578af391)
 
 ## Working Towards A Solution
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+![image](https://github.com/user-attachments/assets/9a01bbaf-555c-4a52-8a39-827ce7f37ac6)
+
+Regshell command can be used with switch 'F' to specify file name. Given our options, I will select 'software' directory to dig deeper, then seeing the listed directories, Mozilla stands out because as mentioned, we are looking to determine the current version of Firefox. 
 
 ## Arriving At The Solution
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+![image](https://github.com/user-attachments/assets/695c19af-1b39-46ed-968d-5e5fde64a4e8)
+
+I was able to arrive to the solution by further changing directory into the "Mozilla Firefox" which after listing contents showed me the 'CurrentVersion' value to signify the answer and flag: Mozilla Firefox version "35.0.1".
 
 ## Lessons Learned 
 
